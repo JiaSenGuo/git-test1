@@ -5,7 +5,6 @@ public class gitTest {
     public static void main(String[] args) {
 
         System.out.println("hello git");
-        System.out.println("hello git");
 
         System.out.println("哈哈");
 
@@ -14,6 +13,7 @@ public class gitTest {
         System.out.println("咕噜咕噜");
         System.out.println("咕噜咕噜");
         System.out.println("咕噜咕噜");
+        System.out.println("咕噜咕噜111111");
     }
 
 }
